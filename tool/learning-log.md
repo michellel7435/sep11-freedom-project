@@ -13,8 +13,11 @@
 So all I did for this was to learn about the code and try to think of the connection with this tool to my freedom project and how I would use it.
 * Next time I will ask for help and try to start trying out the code.
 
-### X/X/XX:
-* Text
+### 10/27/24:
+* What I did was I tried tinkering my tool in my IDE because it dodnt work in jsbin
+* I tested out some of those codes in the animejs website to get a better understanding of the codes
+* I change the codes up a little to make it my own and see if it works and it did.
+* I also watched videos on my tool to help me out as well.
 
 ### X/X/XX:
 * Text
