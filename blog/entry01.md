@@ -21,13 +21,13 @@ I was going through website of [AnimeJS](https://animejs.com/documentation/#cssS
 });
 </script>
 ```
-The code was unable to work without the div class needed which isn't presented in the website documentation which I watched a video on [AnimeJs Tutorial](https://www.youtube.com/watch?v=uRDLFXxihgc).
+The code was unable to work without the div class needed which isn't presented in the website documentation which I watched a video on [AnimeJs Tutorial](https://www.youtube.com/watch?v=uRDLFXxihgc). DIV Class:
 ```js
     <div class="dom-node-demo">
       <div class="el"></div>"
     </div>
 ```
-I also needed to add a CSS to my code in other to show up.
+I also needed to add a CSS to my code in other to show up. CSS:
 ```js
 .el {
   width: 400px;
