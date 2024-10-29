@@ -37,7 +37,7 @@ I also needed to add a CSS to my code in other to show up. CSS:
 ```
 This tinkering was able to help me have an understanding that I need to always add a class to my animejs codes in order for it to work and show up.
 ## Engineering Design Process (EDP) 
-Currently I am in the first step of the engineering desigh process where defining the problem is the process. 
+Currently I am in the first step of the engineering desigh process where defining the problem is the process. The problem might be how we can this game be beneficail towards people and how it can help them in a way. So thats why we are making the game interactive by asking questions to test your minds on the specific topic.
 ## Skills: 
 
 #### 
