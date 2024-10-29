@@ -7,13 +7,11 @@ For my year long project, me and my partners ( Simran and Nancy ) had chosen to 
 ## Content:
 I've been using my tool for 2-3 weeks now and tinkering with it such as using the examples on [AnimeJS](https://animejs.com/documentation/#cssSelector) and coding it onto JSBin to get an idea of my tool and trying to undertsnad on how to use it. I also had been watching videos on my tool to go more advance such as watching a video on [SVG Path, Morphing, Line Drawing](https://www.youtube.com/watch?v=mAKYW_1f-dw&t=482s) which can help me if I want to create or form shapes to my liking. Another video I watched was a basic [AnimeJs Tutorial](https://www.youtube.com/watch?v=uRDLFXxihgc) which helped me develop an idea of animejs and how to use it properly. 
 
-Tinker:
-On JSBin i've been reading through 
+Tinker:                                                  
+I was going through website of [AnimeJS](https://animejs.com/documentation/#cssSelector) and came across a animation, "DOM Node / NodeList" which the code is represented below. The code would image a sort of shape that would translate 270 right.
 
 ```js
-    <div class="dom-node-demo">
-      <div class="el"></div>"
-    </div>
+
 <script>
       var elements = document.querySelectorAll('.dom-node-demo .el');
 
@@ -23,6 +21,21 @@ On JSBin i've been reading through
 });
 </script>
 ```
+The code was unable to work without the div class needed which isn't presented in the website documentation which I watched a video on [AnimeJs Tutorial](https://www.youtube.com/watch?v=uRDLFXxihgc).
+```js
+    <div class="dom-node-demo">
+      <div class="el"></div>"
+    </div>
+```
+I also needed to add a CSS to my code in other to show up.
+```js
+.el {
+  width: 400px;
+  height: 100px;
+  background-color: black;
+}
+```
+This tinkering was able to help me have an understanding that I need to always add a class to my animejs codes in order for it to work and show up.
 ## Engineering Design Process (EDP) 
 Currently I am in the first step of the engineering desigh process where defining the problem is the process. 
 ## Skills: 
