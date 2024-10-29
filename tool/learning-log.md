@@ -21,8 +21,8 @@ So all I did for this was to learn about the code and try to think of the connec
 
 ### 10/28/24:
 * What I did was that I coded some of the examples and made it on my own adding codes into my css to try to match it to my game.
-* (This code makes the shape translate right 270)[image-1.png]
-*
+* [This code makes the shape translate right 270](image-1.png)
+* I 
 
 ### X/X/XX:
 * Text
