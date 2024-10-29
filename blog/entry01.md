@@ -2,7 +2,7 @@
 ##### 10/29/24
 
 ## Topic:
-Text
+For my year long project, me and my partners (Simran and Nancy) had chosen to make a game about rythym such as a game like the piano where you have a song and you have to click on the keys on time. The tool I chose to use was animejs because the tool was more newer and if I want to do a rythymatic game then I need to have animation within that game to make it process and look better.
 
 ## Engineering Design Process (EDP) 
 
