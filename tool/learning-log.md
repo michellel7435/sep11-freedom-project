@@ -20,7 +20,9 @@ So all I did for this was to learn about the code and try to think of the connec
 * I also watched videos on my tool to help me out as well.
 
 ### 10/28/24:
-* ![A code I did]](image.png)
+* What I did was that I coded some of the examples and made it on my own adding codes into my css to try to match it to my game.
+* (This code makes the shape translate right 270)[image-1.png]
+*
 
 ### X/X/XX:
 * Text
