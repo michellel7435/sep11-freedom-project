@@ -46,9 +46,6 @@ Gaining organizational skills allowed me to make use of my resources effectively
 #### Time Management:                        
 Time management has become an important skill toward me because it's not just for one of my classes but for all my class. I always feel stressed when I have a lot of things to do and almost all of my work is due on the same date, so what I tend to do is do those work whenever I can, such as my free times at school. Time management is important because it helps you stay organized and it eases my mind whenever I'm stressed over multiple tasks at once but I try to focus on one at a time whenever I can.
 
-#### 
-
-## Next Steps
 [Next](entry02.md)
 
 [Home](../README.md)
