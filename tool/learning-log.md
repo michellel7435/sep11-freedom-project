@@ -19,8 +19,8 @@ So all I did for this was to learn about the code and try to think of the connec
 * I change the codes up a little to make it my own and see if it works and it did.
 * I also watched videos on my tool to help me out as well.
 
-### X/X/XX:
-* Text
+### 10/28/24:
+* ![A code I did]](image.png)
 
 ### X/X/XX:
 * Text
