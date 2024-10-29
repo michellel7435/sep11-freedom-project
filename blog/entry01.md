@@ -43,7 +43,8 @@ Currently I am in the first step of the engineering desigh process where definin
 #### Organization
 Gaining organizational skills allowed me to make use of my resources effectively and efficiently. I can effectively manage my time, energy, and workspace when I am organized, and I can finish all of the tasks assigned to me. Whenever I reorganized my work, I found that it had increased my performance and helped me be more productive. When my stuff are disorganized and I'm having trouble finding anything, having organizational skills can be helpful. If I reorganize everything in a certain order or put the work in its proper area, it will make it easier for me to comprehend and for the viewers to discover things without trouble.
 
-#### 
+#### Time Management
+Time management had become an important skill toward me because it's not just for one of my class but for all my class. I always feel stressed when I have a lot of things to do and almost all of my work is due on the same date, so what I tend to do is do those work whenever I can such as my free times at school. Time management is imporant because it helps you stay organize and it eases my mind whenever i'm stressed ober multiple work at once but I try to focus on one at a time whenever I can.
 
 #### 
 
