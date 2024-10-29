@@ -22,7 +22,11 @@ So all I did for this was to learn about the code and try to think of the connec
 ### 10/28/24:
 * What I did was that I coded some of the examples and made it on my own adding codes into my css to try to match it to my game.
 * [This code makes the shape translate right 270](image-1.png)
-* I 
+* I watched a youtube where it can help me form shapes however I like such as morphing a shape to a shape that I wanted it to be
+    * [Youtube video on how to morph](https://www.youtube.com/watch?v=mAKYW_1f-dw&t=482s)
+* I also watch a video for the more basic level of my tool so I can have a better understanding on when or how to use my divs to make my animation show up.
+    * [Video on animjs basics](https://www.youtube.com/watch?v=uRDLFXxihgc)
+
 
 ### X/X/XX:
 * Text
