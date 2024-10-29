@@ -40,7 +40,8 @@ This tinkering was able to help me have an understanding that I need to always a
 Currently I am in the first step of the engineering desigh process where defining the problem is the process. The problem might be how we can this game be beneficail towards people and how it can help them in a way. So thats why we are making the game interactive by asking questions to test your minds on the specific topic.
 ## Skills: 
 
-#### 
+#### Organization
+Gaining organizational skills allowed me to make use of my resources effectively and efficiently. I can effectively manage my time, energy, and workspace when I am organized, and I can finish all of the tasks assigned to me. Whenever I reorganized my work, I found that it had increased my performance and helped me be more productive. When my stuff are disorganized and I'm having trouble finding anything, having organizational skills can be helpful. If I reorganize everything in a certain order or put the work in its proper area, it will make it easier for me to comprehend and for the viewers to discover things without trouble.
 
 #### 
 
