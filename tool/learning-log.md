@@ -35,8 +35,30 @@ So all I did for this was to learn about the code and try to think of the connec
 * I also been doing the animation css property where the shape changes to another shape
 * ![Another code I did](image-3.png), this would change the shape of a square to a circle
 
-### X/X/XX:
+### 12/4X/24:
 * Text
+What I learned about my tool is that the animation needed its own css and hyml setup such as
+![IMAGE 1](image-4.png)
+![image 2](image-5.png)
+
+so that my animation of the the circle can show in my server when i code the animation down
+![image 3](image-6.png)
+That would give me the circle and what im trying to target my animation too so
+![image 4](image-7.png)
+if i add the translation my circle would translate right 250
+
+I also tried adding multiple circles (3) by adding more to my html and css so
+![image 5](image-8.png)
+the circle would be in a row because of the margins and have a delay
+![image 6](image-9.png)
+so what that does is that it gives the circles a delay so they all dont go at the same time
+I tried adding more to it by having a start time on when the circles to start moving such as adding
+![image 7](image-10.png)
+this take the circles a little linger to being their animation
+
+In this whole week I was learning more about animation and how to put the animation within one line of code and figuring out how the animations will work and how it will contribute to my freedom project.
+
+Next I will try to do some color changing mid animation to see how it works and learn more about animejs.
 
 ### X/X/XX:
 * Text
