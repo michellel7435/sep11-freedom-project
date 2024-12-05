@@ -43,9 +43,9 @@ What I learned about my tool is that the animation needed its own css and hyml s
 
 so that my animation of the the circle can show in my server when i code the animation down
 ![image 3](image-6.png)
-That would give me the circle and what im trying to target my animation too so
+That would give me the circle and what im trying to target my animation too
 ![image 4](image-7.png)
-if i add the translation my circle would translate right 250
+so if i add the translation my circle would translate right 250
 
 I also tried adding multiple circles (3) by adding more to my html and css so
 ![image 5](image-8.png)
