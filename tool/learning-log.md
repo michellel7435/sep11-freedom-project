@@ -35,7 +35,7 @@ So all I did for this was to learn about the code and try to think of the connec
 * I also been doing the animation css property where the shape changes to another shape
 * ![Another code I did](image-3.png), this would change the shape of a square to a circle
 
-### 12/4X/24:
+### 12/4/24:
 * Text
 What I learned about my tool is that the animation needed its own css and hyml setup such as
 ![IMAGE 1](image-4.png)
