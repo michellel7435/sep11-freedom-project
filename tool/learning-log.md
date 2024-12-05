@@ -47,9 +47,8 @@ That would give me the circle and what im trying to target my animation too
 ![image 4](image-7.png)
 so if i add the translation my circle would translate right 250
 
-I also tried adding multiple circles (3) by adding more to my html and css so
+I also tried adding multiple circles (3) by adding more to my html and css so the circle would be in a row because of the margins and have a delay
 ![image 5](image-8.png)
-the circle would be in a row because of the margins and have a delay
 ![image 6](image-9.png)
 so what that does is that it gives the circles a delay so they all dont go at the same time
 I tried adding more to it by having a start time on when the circles to start moving such as adding
