@@ -1,10 +1,10 @@
 # Entry 2
 ##### 12/9/24
 
-## Context
-During the time period I've been learning more about my tool and how it would fit into my freedom project.
-
 ## Content
+During the time period I've been learning more about my tool and how it would fit into my freedom project. I watched many videos on how to work with animejs and trying to get an better interpretation on how I can use some animation from animejs and make it into something, like an animated character.
+
+
 
 ## Engineering Design Process (EDP)                                                  
 
