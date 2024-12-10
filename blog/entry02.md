@@ -16,6 +16,7 @@ This skill I was able to learn because when coding there will be so many mistake
 
 #### How To Google
 For this step I had to learn how to google because when I found my tool "AnimeJs" I had to research it which includes searching on google. I had to learn how to google because if I do I can search for the right information that I need easily instead of constantly googling it over and over again trying to look for what I need. Learning how to google can benefit the freedom to spend more time personalizing the learning experience, and less time managing it. Also if I know tools such as "command" + "f" which allows me to search for specific information using keywords. That can help me save time instead of going through all the information that is on the website.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
