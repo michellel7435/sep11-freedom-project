@@ -6,8 +6,9 @@ During the time period I've been learning more about my tool and how it would fi
 
 
 #### Tinkering 1:
-
-
+For this tinker I was trying to see morphing of a shape to another. I wanted to see if its possible to make a piano game using morphing because it was the closest thing I could've gotten AnimeJS to relate with.
+![image](https://github.com/user-attachments/assets/175acadf-c1c4-414a-b660-2fd8b352265f)
+The code above was an AnimeJS animation where the square would morph into a circle. What I didn't get was why didn't the square move while changing into a cicrle. I was able to figure out how
 ## Engineering Design Process (EDP)                                                  
 
 
