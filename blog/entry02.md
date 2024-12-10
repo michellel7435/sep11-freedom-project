@@ -32,7 +32,7 @@ I added a delay to the circle so they all don't go at the same time. As well wit
 This would take the circle a little longer to start and have a delay.
 
 ## Engineering Design Process (EDP)                                                  
-I am currently on the EDP step 3-4
+I am currently on the EDP step 3-4 where the process is brainstorming and planning.
 
 ## Skills: 
 
