@@ -6,19 +6,22 @@ During the time period I've been learning more about my tool and how it would fi
 
 
 #### Tinkering 1:
-For this tinker I was trying to see morphing of a shape to another. I wanted to see if its possible to make a piano game using morphing because it was the closest thing I could've gotten AnimeJS to relate with.
+For this tinker I was trying to see morphing of a shape to another. I wanted to see if its possible to make a piano game using morphing because it was the closest thing I could've gotten AnimeJS to relate with.                             
 ![image](https://github.com/user-attachments/assets/175acadf-c1c4-414a-b660-2fd8b352265f)
+
+
+
 The code above was an AnimeJS animation where the square would morph into a circle. What I didn't get was why didn't the square move while changing into a cicrle. I was able to figure out how to move it to the left because I was missing a CSS code.
 
 #### Tinkering 2:
 I also have trying to the basic of aimation and adding more code within the line.
-First: I needed to add my own CSS and my own HTML setup.
+First: I needed to add my own CSS and my own HTML setup.                             
 ![PNG image](https://github.com/user-attachments/assets/b8e15bde-e6fc-447a-b5a3-b8ab91cd4725)
 ![PNG image](https://github.com/user-attachments/assets/d49015fa-d30d-472b-bf5d-2cdcdbe1288a)
-Second: This allowed my animation of the circle can show in my server when I code the animation down.
-![PNG image](https://github.com/user-attachments/assets/ac695f5e-329d-4050-9a14-47e078e761f7)
-That would give me the circle and I was trying to target my animation as well.
-![PNG image](https://github.com/user-attachments/assets/f30a9930-dd7f-4cb3-93fa-cee964448af0)
+Second: This allowed my animation of the circle can show in my server when I code the animation down.                    
+![PNG image](https://github.com/user-attachments/assets/ac695f5e-329d-4050-9a14-47e078e761f7)                 
+That would give me the circle and I was trying to target my animation as well.                               
+![PNG image](https://github.com/user-attachments/assets/f30a9930-dd7f-4cb3-93fa-cee964448af0)                        
 I added a translation to my circle which would make it translate to the right by 250
 
 I also tried adding more circles (3) by adding more html such as `div class="circle"></div>` three times so three circles can pop up in my server. I also added a margin to my css so my circle wouldn't be together.
