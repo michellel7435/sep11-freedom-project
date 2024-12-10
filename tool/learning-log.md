@@ -53,7 +53,7 @@ I also tried adding multiple circles (3) by adding more to my html and css so th
 so what that does is that it gives the circles a delay so they all dont go at the same time
 I tried adding more to it by having a start time on when the circles to start moving such as adding
 ![image 7](image-10.png)
-this take the circles a little linger to being their animation
+this take the circles a little longer to being their animation
 
 In this whole week I was learning more about animation and how to put the animation within one line of code and figuring out how the animations will work and how it will contribute to my freedom project.
 
