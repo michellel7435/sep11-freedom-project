@@ -17,7 +17,7 @@ The code above was an AnimeJS animation where the square would morph into a circ
 I also have trying to the basic of aimation and adding more code within the line.
 First: I needed to add my own CSS and my own HTML setup.                             
 ![PNG image](https://github.com/user-attachments/assets/b8e15bde-e6fc-447a-b5a3-b8ab91cd4725)
-![PNG image](https://github.com/user-attachments/assets/d49015fa-d30d-472b-bf5d-2cdcdbe1288a)
+![PNG image](https://github.com/user-attachments/assets/d49015fa-d30d-472b-bf5d-2cdcdbe1288a)                                
 Second: This allowed my animation of the circle can show in my server when I code the animation down.                                                   
 ![PNG image](https://github.com/user-attachments/assets/ac695f5e-329d-4050-9a14-47e078e761f7)                 
 That would give me the circle and I was trying to target my animation as well.                               
