@@ -2,23 +2,23 @@
 ##### 12/9/24
 
 ## Content
-During the time period I've been learning more about my tool and how it would fit into my freedom project. I watched many videos on how to work with animejs and trying to get an better interpretation on how I can use some animation from animejs and make it into something, like an animated character. I was learning mostly on my tool by watching videos such as [AnimeJS tutorial](https://www.youtube.com/watch?v=WogfLKQHi1A) where I learned more about my tool and the [AnimeJS website](https://animejs.com). I was trying to focus on how the animation would work and how it could work such as seeing if this tool can make a piano key with the feature such as disappearing on click.
+During the time period I've been learning more about my tool and how it would fit into my freedom project. I watched many videos on how to work with animejs and tried to get a better interpretation on how I can use some animation from animejs and make it into something, like an animated character. I was learning mostly on my tool by watching videos such as [AnimeJS tutorial](https://www.youtube.com/watch?v=WogfLKQHi1A) where I learned more about my tool and the [AnimeJS website](https://animejs.com). I was trying to focus on how the animation would work and how it could work such as seeing if this tool can make a piano key with the feature such as disappearing on click.
 
 
 #### Tinkering 1:
-For this tinker I was trying to see morphing of a shape to another. I wanted to see if its possible to make a piano game using morphing because it was the closest thing I could've gotten AnimeJS to relate with.                             
+For this tinker I was trying to see morphing of a shape to another. I wanted to see if it's possible to make a piano game using morphing because it was the closest thing I could've gotten to AnimeJS to relate with.                             
 ![image](https://github.com/user-attachments/assets/175acadf-c1c4-414a-b660-2fd8b352265f)
 
 
 
-The code above was an AnimeJS animation where the square would morph into a circle. What I didn't get was why didn't the square move while changing into a cicrle. I was able to figure out how to move it to the left because I was missing a CSS code.
+The code above was an AnimeJS animation where the square would morph into a circle. What I didn't get was why didn't the square move while changing into a circle. I was able to figure out how to move it to the left because I was missing a CSS code.
 
 #### Tinkering 2:
-I also have trying to the basic of aimation and adding more code within the line.
+I also have been trying to the basics of animation and adding more code within the line.
 First: I needed to add my own CSS and my own HTML setup.                             
 ![PNG image](https://github.com/user-attachments/assets/b8e15bde-e6fc-447a-b5a3-b8ab91cd4725)
 ![PNG image](https://github.com/user-attachments/assets/d49015fa-d30d-472b-bf5d-2cdcdbe1288a)                                
-Second: This allowed my animation of the circle can show in my server when I code the animation down.                                                   
+Second: This allowed my animation of the circle to show in my server when I code the animation down.                                                   
 ![PNG image](https://github.com/user-attachments/assets/ac695f5e-329d-4050-9a14-47e078e761f7)                 
 That would give me the circle and I was trying to target my animation as well.                               
 ![PNG image](https://github.com/user-attachments/assets/f30a9930-dd7f-4cb3-93fa-cee964448af0)                        
@@ -32,7 +32,7 @@ I added a delay to the circle so they all don't go at the same time. As well wit
 This would take the circle a little longer to start and have a delay.
 
 ## Engineering Design Process (EDP)                                                  
-I am currently on the EDP step 3-4 where the process is brainstorming and planning. In this process I was brainstorming the ideas of how I can use my tool on how I want to use it. I was also planning on what specific animation I would like to use or see a fit for it which i've been tinkering with multiple animation to find the right one.
+I am currently on the EDP step 3-4 where the process is brainstorming and planning. In this process I was brainstorming the ideas of how I can use my tool on how I want to use it. I was also planning on what specific animation I would like to use or see a fit for it which i've been tinkering with multiple animations to find the right one.
 
 ## Skills: 
 
