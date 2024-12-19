@@ -32,7 +32,7 @@ I added a delay to the circle so they all don't go at the same time. As well wit
 This would take the circle a little longer to start and have a delay.
 
 ## Engineering Design Process (EDP)                                                  
-I am currently on the EDP step 3-4 where the process is brainstorming and planning. In this process I was brainstorming the ideas of how I can use my tool on how I want to use it. I was also planning on what specific animation I would like to use or see a fit for it which i've been tinkering with multiple animations to find the right one.
+I am currently on the EDP step 3-4 where the process is brainstorming and planning. In this process I was brainstorming the ideas of how I can use my tool on how I want to use it. I was also planning on what specific animation I would like to use or see a fit for it which i've been tinkering with multiple animations to find the right one. I am also planning on how I can be better with my tool that will get easier to use.
 
 ## Skills: 
 
