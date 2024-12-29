@@ -28,13 +28,6 @@ So all I did for this was to learn about the code and try to think of the connec
     * [Video on animjs basics](https://www.youtube.com/watch?v=uRDLFXxihgc)
 
 
-### 11/13/24:
-* What I did was I tried coding more examples from [animejs](https://animejs.com/documentation/#cssSelector) in jsbin to see how I can connect this tool with my freedom project
-* I've been testing the animation css transform because it has a small connection to what I want to make.
-* ![Code I did](image-2.png), this would animate the square to transform larger
-* I also been doing the animation css property where the shape changes to another shape
-* ![Another code I did](image-3.png), this would change the shape of a square to a circle
-
 ### 12/4/24:
 * Text
 What I learned about my tool is that the animation needed its own css and hyml setup such as
@@ -59,8 +52,14 @@ In this whole week I was learning more about animation and how to put the animat
 
 Next I will try to do some color changing mid animation to see how it works and learn more about animejs.
 
-### X/X/XX:
-* Text
+### 12/27/24:
+* What I did was I tried coding more examples from [animejs](https://animejs.com/documentation/#cssSelector) in jsbin to see how I can connect this tool with my freedom project
+* I've been testing the animation css transform because it has a small connection to what I want to make.
+* ![Code I did](image-2.png), this would animate the square to transform larger
+* I also been doing the animation css property where the shape changes to another shape
+* ![Another code I did](image-3.png), this would change the shape of a square to a circle
+
+
 
 ### X/X/XX:
 * Text
