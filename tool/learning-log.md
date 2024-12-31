@@ -53,11 +53,24 @@ In this whole week I was learning more about animation and how to put the animat
 Next I will try to do some color changing mid animation to see how it works and learn more about animejs.
 
 ### 12/27/24:
-* What I did was I tried coding more examples from [animejs](https://animejs.com/documentation/#cssSelector) in jsbin to see how I can connect this tool with my freedom project
-* I've been testing the animation css transform because it has a small connection to what I want to make.
-* ![Code I did](image-2.png), this would animate the square to transform larger
-* I also been doing the animation css property where the shape changes to another shape
-* ![Another code I did](image-3.png), this would change the shape of a square to a circle
+I learned how to do timeline using animejs where I can add animations to the timeline, and it will play back to back based on their order.
+
+![image](https://github.com/user-attachments/assets/baf3f4cc-029c-45eb-a3b9-5eccf2888f06)
+
+
+in the circle element it will move to the right, then down and scale up.
+
+I also tried using the will-change property where the will-change property elements will be animated. 
+
+![image](https://github.com/user-attachments/assets/a234d726-a6f3-4227-abd6-5c49a2557332)
+
+
+Next I learned how to direction, direction property can reverse animations. The 3 choices are 'normal', 'reverse', and 'alternate'.
+
+![image](https://github.com/user-attachments/assets/d88d0abd-d824-427e-baa2-11e78e0a3a5f)
+
+
+Next I want to try more complex animations with animejs so I can contribute my tool to the game.
 
 
 
