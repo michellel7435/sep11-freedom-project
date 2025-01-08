@@ -73,12 +73,18 @@ Next I learned how to direction, direction property can reverse animations. The 
 Next I want to try more complex animations with animejs so I can contribute my tool to the game.
 
 ### 1/9/25:
-* What I did was learnign the process of targets, properties, property parameters, and animation parameters.
+### 1/9/25:
+* What I did was learning the process of targets, properties, property parameters, and animation parameters.
 
 ![image](https://github.com/user-attachments/assets/05c53eaa-fb22-47db-a46c-04487ced01fb)
 in the code above I selected the green square, move it to the left 100 pixels while transforming into a circle, I also set this to happen in 2 seconds. By setting the direction property to alternate, I instruct the div element to go back to its initial position and shape after animation completion.
 ![image](https://github.com/user-attachments/assets/5b4c04f4-f6c0-4511-b9e6-32343e2feaa0)
 I also added CSS to my code to make it run better and have some effects.
+
+* I also learned how to use keyframes using animejs
+
+![image](https://github.com/user-attachments/assets/85c5dfd0-c49d-41c4-ba3a-0dd9140fb0f4)
+What I did was that I was able to use keyframes to define a series of animation steps and the div moves in a square path. Each step in the keyframes array represents a point in the animation timeline.
 
 
 ### X/X/XX:
